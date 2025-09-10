@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Bilibili 推荐内容类型屏蔽器
-// @namespace    https://example.com/tampermonkey/bilibili-filter
+// @name         Bilibili 主页推荐卡片版权内容屏蔽
+// @namespace    https://github.com/rainpenber/mktk-my-tampermonkey-scripts/tree/main/scripts/bilibili_feedcard_filter
 // @version      1.0.0
-// @description  在首页按类型（电影、课堂、电视剧、国创、综艺、纪录片、漫画、直播、番剧）屏蔽推荐卡片，并提供可视化设置面板。
-// @author       You
+// @description  屏蔽B站主页推荐流中的版权内容卡片（电影、课堂、电视剧、国创 等等）
+// @author       Rainpenber
 // @match        https://www.bilibili.com/
 // @match        https://www.bilibili.com/?*
 // @icon         https://www.bilibili.com/favicon.ico
